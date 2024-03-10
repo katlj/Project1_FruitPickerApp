@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FRUIT PICKER</string>
+
+    <string name="find_fruit">Find the Fruit!</string>
+    <string name="fruit_names">No fruit selected</string>
+    <string-array name="fruit_kinds">
+        <item>Apple</item>
+        <item>Pear</item>
+        <item>Grapes</item>
+        <item>Banana</item>
+    </string-array>
+</resources>
